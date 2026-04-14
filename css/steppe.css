@@ -1,0 +1,14 @@
+/* Webfont: Steppe-Regular */
+@font-face {
+    font-family: 'Steppe';
+    src: url('../fonts/Steppe/Steppe.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/Steppe/Steppe.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/Steppe/Steppe.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/Steppe/Steppe.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+ }

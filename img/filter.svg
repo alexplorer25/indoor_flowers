@@ -1,0 +1,16 @@
+<svg viewBox="0 0 44.25 44.25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.250000" height="44.250000" fill="none" customFrame="#000000">
+	<g id="Group 36">
+		<rect id="Rectangle 13" width="44.250000" height="44.250000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+		<g id="Group 35">
+			<line id="Line 1" x1="6.63757324" x2="37.6125717" y1="11.6689453" y2="11.6689453" stroke="rgb(0,79,68)" stroke-linecap="round" stroke-width="1.000000" />
+			<line id="Line 2" x1="6.63757324" x2="37.6125717" y1="22.7314453" y2="22.7314453" stroke="rgb(0,79,68)" stroke-linecap="round" stroke-width="1.000000" />
+			<line id="Line 3" x1="6.63757324" x2="37.6125717" y1="33.7939453" y2="33.7939453" stroke="rgb(0,79,68)" stroke-linecap="round" stroke-width="1.000000" />
+			<circle id="Ellipse 23" cx="31.3437901" cy="22.739542" r="3.07291675" fill="rgb(0,79,68)" />
+			<circle id="Ellipse 23" cx="31.3437901" cy="22.739542" r="2.57291675" stroke="rgb(0,79,68)" stroke-width="1.000000" />
+			<circle id="Ellipse 25" cx="14.135417" cy="11.677043" r="3.07291675" fill="rgb(0,79,68)" />
+			<circle id="Ellipse 25" cx="14.135417" cy="11.677043" r="2.57291675" stroke="rgb(0,79,68)" stroke-width="1.000000" />
+			<circle id="Ellipse 24" cx="14.135417" cy="33.8020439" r="3.07291675" fill="rgb(0,79,68)" />
+			<circle id="Ellipse 24" cx="14.135417" cy="33.8020439" r="2.57291675" stroke="rgb(0,79,68)" stroke-width="1.000000" />
+		</g>
+	</g>
+</svg>
