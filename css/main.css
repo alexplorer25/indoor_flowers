@@ -558,3 +558,8 @@ legend {
 .plant__box {
   margin-top: 37px;
 }
+
+.plant__item {
+  width: 370px;
+  height: 472px;
+}
