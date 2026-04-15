@@ -38,6 +38,10 @@
     -webkit-transform: translate3d(0, 0, 0)
 }
 
+.owl-carousel.slider__plant .owl-stage-outer {
+    overflow: hidden;
+}
+
 .owl-carousel .owl-item,
 .owl-carousel .owl-wrapper {
     -webkit-backface-visibility: hidden;
@@ -115,6 +119,32 @@
         transform: translate(-50%, -50%);
         left: 50%;
         top: 50%;
+        content: url('../../../../img/clarity_arrow-line.png');
+    }
+
+    & span {
+        display: none;
+    }
+}
+
+.owl-carousel.slider__plant .owl-nav button.owl-next {
+    position: absolute;
+    left: calc((100vw) / 2 + 460px);
+    top: 235px;
+    width: 75px;
+    height: 20px;
+    border-radius: unset;
+    background-color: #f3fffc;
+    color: #004f44;
+    font-size: 19px;
+
+    &::after {
+        position: absolute;
+        /* width: 16x;
+        height: 16px; */
+        top: 50%;
+        transform: translateY(-50%);
+        left: 70px;
         content: url('../../../../img/clarity_arrow-line.png');
     }
 

@@ -42,6 +42,7 @@ $(".slider__plant").owlCarousel({
   //     },
   //   },
   nav: true,
+  navText: ["", "more"],
   dots: false,
   loop: true,
   items: 3,
