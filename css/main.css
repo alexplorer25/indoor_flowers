@@ -563,3 +563,17 @@ legend {
   width: 370px;
   height: 472px;
 }
+
+.free-shipping {
+  margin-top: 104px;
+}
+
+.free-shipping__box {
+  height: 346px;
+  background-image: url("../img/free-shipping.jpg");
+}
+
+.footer {
+  margin-top: 129px;
+  margin-bottom: 139px;
+}
